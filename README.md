@@ -1,5 +1,9 @@
 # Phase 2 Code Challenge: Plantsy
 
+# Author: Marilyn Musyimi
+
+# Date: 2024/11/10
+
 ## Demo
 
 Use this gif as an example of how the app should work.
@@ -148,3 +152,10 @@ Example Response:
 ```json
 {}
 ```
+
+# Technologies used:
+React js
+css
+
+# Support and Contact Details:
+https://github.com/Marilynmonroecode
